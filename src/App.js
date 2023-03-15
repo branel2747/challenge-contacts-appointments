@@ -13,12 +13,12 @@ function App() {
   const [contact, setContact] = useState([
     {
       name: "Brian",
-      phone: "0993032735",
+      phone: "0993032535",
       email: "bdqs_2747@hotmail.com"
     },
     {
       name: "dan",
-      phone: "092959292",
+      phone: "092956292",
       email: "asdawasdawwd"
     }
   ]);
